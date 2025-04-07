@@ -6,7 +6,7 @@
 😊 **More About Me!**   
 [![Tistory Badge](https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=tistory&logoColor=ffffff&logoSize=auto&color=000000&link=https%3A%2F%2Fwalnut-dev.tistory.com)](https://walnut-dev.tistory.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjunyoung-won-38058a288%2F)](https://www.linkedin.com/in/junyoung-won-38058a288/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](wjyo60@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com?subject=Hi%20there!&body=Nice%20to%20meet%20you!)
 
 </div>
 
@@ -52,62 +52,3 @@ Quite Familiar
 Experienced   
 <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
 
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <h3>Android</h3>
-      <ul>
-        <li>MVVM</li>
-        <li>AAC ViewModel with LiveData</li>
-        <li>Retrofit</li>
-        <li>CustomView</li>
-        <li>View & DataBinding</li>
-        <li>Hilt</li>
-        <li>ComposeUI</li>
-        <li>RoomDB</li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <h3>Test</h3>
-      <ul>
-        <li>JUnit4</li>
-        <li>JUnit5</li>
-        <li>Espresso</li>
-        <li>MockK</li>
-        <li>MockWebServer</li>
-        <li>Robolectrics</li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <h3>Kotlin</h3>
-      <ul>
-        <li>Coroutine</li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <h3>⚙️ CI/CD</h3>
-      <ul>
-        <li>Github Actions</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
-
-<!--
-**Junyoung-WON/Junyoung-WON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
