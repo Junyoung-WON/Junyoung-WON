@@ -1,5 +1,5 @@
 [![Hi there, I'm Hodu!](https://readme-typing-svg.demolab.com?font=Markazi+Text&size=32&letterSpacing=0px&duration=4500&pause=2000&color=DBA006&vCenter=true&width=560&height=75&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB++I'm+Hodu!;The+Android+Developer+who+loves+immerse+myself.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Markazi+Text&pause=1000&color=DBA006&random=true&width=435&lines=Communication+Skills;Love+Immersion+%26+Deep+Diving;Value+On+Working+Together;Can't+Stand+a+1dp+Misalignment;Deep+Consideration%2C+Team+is+First;Solve+Problems+for+Teams%2C+Users+and+Society;Fast+Application+of+Technology)](https://git.io/typing-svg)
 
 <div align="center">
 
